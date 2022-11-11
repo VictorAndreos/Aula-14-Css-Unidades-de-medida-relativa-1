@@ -1,0 +1,21 @@
+html{
+    background-color:black;
+    font-size: 32px;
+    
+}
+
+body{
+    background-color: yellow;
+    width: 50%;
+    
+}
+
+.pai{
+    background-color: green;
+    width: 50%;
+}
+
+.filha{
+    background-color: blue;
+    width: 50%;
+}
